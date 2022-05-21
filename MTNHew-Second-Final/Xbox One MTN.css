@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(base-white-MTN2.png);
+    background: url(base-white-MTN3Second.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -8,7 +8,7 @@
 }
 
 .xbox.white {
-    background: url(base-white-MTN2.png);
+    background: url(base-white-MTN3Second.png);
 }
 
 .xbox.disconnected {
