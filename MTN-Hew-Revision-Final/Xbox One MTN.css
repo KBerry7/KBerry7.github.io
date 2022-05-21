@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(trigger-MTN.png);
+    background: url(bumper-MTN.png);
     opacity: 0;
 }
 
@@ -214,7 +214,7 @@
 }
 
 .xbox .face {
-    background: url(dpad-MtnHew.png);
+    background: url(dpad-MTN.png);
     position: absolute;
     opacity: 0;
 }
