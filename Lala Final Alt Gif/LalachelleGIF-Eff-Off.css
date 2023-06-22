@@ -202,11 +202,10 @@
 
 .xbox .stick.right {
     position: absolute;
-    background: url(StickTest.png);
+    background: url(Stick-Eff-Off.gif);
     background-position: -85px 0;
     height: 85px;
     width: 85px;
-
 }
 
 .xbox .stick.right.pressed {
@@ -216,6 +215,7 @@
 .xbox .stick.right {
     top: 113px;
     left: 288px;
+    
 }
 
 .xbox .dpad {
@@ -224,6 +224,7 @@
     height: 111px;
     top: 345px;
     left: 223px;
+    
 }
 
 .xbox .face {
