@@ -201,8 +201,9 @@
 }
 
 .xbox .stick.right {
-    top: 226px;
-    left: 576px;
+    background-position: -170px 0;
+    top: 113px;
+    left: 288px;
 }
 
 .xbox .dpad {
