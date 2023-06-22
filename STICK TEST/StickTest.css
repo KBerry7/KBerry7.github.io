@@ -187,8 +187,8 @@
     position: absolute;
     background: url(StickTest.png);
     background-position: -85px 0;
-    height: 83px;
-    width: 83px;
+    height: 85px;
+    width: 85px;
 }
 
 .xbox .stick.pressed {
@@ -201,8 +201,8 @@
 }
 
 .xbox .stick.right {
-    top: 113px;
-    left: 288px;
+    top: 226px;
+    left: 576px;
 }
 
 .xbox .dpad {
