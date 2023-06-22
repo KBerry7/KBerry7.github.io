@@ -211,11 +211,10 @@
 }
 
 .xbox .stick.right.pressed {
-    background-position: 0 0;
+    background-position: -170 0;
 
 }
 .xbox .stick.right {
-    background-position: -170px 0;
     top: 113px;
     left: 288px;
 }
