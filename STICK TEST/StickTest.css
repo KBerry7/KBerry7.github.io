@@ -191,8 +191,9 @@
     width: 85px;
 }
 
-.xbox .stick.pressed {
+.xbox .stick.left.pressed {
     background-position: 0 0;
+
 }
 
 .xbox .stick.left {
@@ -200,6 +201,10 @@
     left: 0;
 }
 
+.xbox .stick.right.pressed {
+    background-position: 0 0;
+
+}
 .xbox .stick.right {
     background-position: -170px 0;
     top: 113px;
