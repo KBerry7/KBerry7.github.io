@@ -44,8 +44,8 @@
 }
 
 .xbox .bumper {
-    width: 172px;
-    height: 64px;
+    width: 171px;
+    height: 63px;
     background: url(bumper-LalaFinal.gif);
     opacity: 0;
 }
