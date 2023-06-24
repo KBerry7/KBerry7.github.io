@@ -27,8 +27,8 @@
 }
 
 .xbox .trigger {
-    width: 88px;
-    height: 121px;
+    width: 89px;
+    height: 122px;
     background: url(trigger-LalaFinal.gif);
     opacity: 0;
 }
@@ -44,8 +44,8 @@
 }
 
 .xbox .bumper {
-    width: 170px;
-    height: 75px;
+    width: 172px;
+    height: 64px;
     background: url(bumper-LalaFinal.gif);
     opacity: 0;
 }
