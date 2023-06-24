@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(trigger-Lala5.gif);
+    background: url(trigger-Lala6.gif);
     opacity: 0;
 }
 
@@ -45,8 +45,8 @@
 
 .xbox .bumper {
     width: 170px;
-    height: 61px;
-    background: url(bumper-LalaGif4.gif);
+    height: 75px;
+    background: url(bumper-LalaGif6.gif);
     opacity: 0;
 }
 
