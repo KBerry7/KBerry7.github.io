@@ -224,7 +224,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 145px;
     height: 145px;
-    top: 250px;
+    top: 220px;
     left: 286px;
 }
 
@@ -250,7 +250,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.down {
-    left: 55px;
+    left: 44px;
     bottom: 0;
     background-position: 0px 0;
 }
@@ -262,7 +262,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.right {
-    top: 60px;
+    top: 45px;
     right: 0px;
     background-position: 52px 0;
 }
