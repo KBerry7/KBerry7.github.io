@@ -222,8 +222,8 @@ background-position: 0 -70px;
 
 .ds4 .dpad {
     position: absolute;
-    width: 137px;
-    height: 137px;
+    width: 130px;
+    height: 130px;
     top: 220px;
     left: 286px;
 }
@@ -252,7 +252,7 @@ background-position: 0 -70px;
 .ds4 .face.down {
     left: 44px;
     bottom: 0;
-    background-position: 0px 0px;
+    background-position: 0px 0;
 }
 
 .ds4 .face.left {
