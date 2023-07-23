@@ -246,13 +246,13 @@ background-position: 0 -70px;
 .ds4 .face.up {
     left: 44px;
     top: 0;
-    background-position: -75px 0px;
+    background-position: -120px 0px;
 }
 
 .ds4 .face.down {
     left: 44px;
     bottom: 0;
-    background-position: -14px 0;
+    background-position: -35px 0;
 }
 
 .ds4 .face.left {
