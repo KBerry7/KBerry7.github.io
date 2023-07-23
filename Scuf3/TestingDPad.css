@@ -262,9 +262,9 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.right {
-    top: 45px;
+    top: 50px;
     right: 0;
-    background-position: 60px 0;
+    background-position: 60px 5px;
 }
 
 .ds4 .face.pressed {
