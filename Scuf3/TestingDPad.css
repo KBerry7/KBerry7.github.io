@@ -256,13 +256,13 @@ background-position: 0 -70px;
 }
 
 .ds4 .face.left {
-    top: 45px;
-    left: 0px;
+    top: 41px;
+    left: 1px;
     background-position: 118px 0px;
 }
 
 .ds4 .face.right {
-    top: 39px;
+    top: 41px;
     right: 10px;
     background-position: 60px 0;
 }
