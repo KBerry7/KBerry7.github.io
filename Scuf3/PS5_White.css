@@ -222,35 +222,35 @@ background-position: 0 -70px;
 
 .ds4 .dpad {
     position: absolute;
-    width: 125px;
-    height: 126px;
-    top: 220px;
-    left: 286px;
+    width: 140px;
+    height: 140px;
+    top: 213px;
+    left: 278px;
 }
 
 .ds4 .face {
-    background: url(DpadTest2.png);
+    background: url(DpadTest2Merged.png);
     position: absolute;
 }
 
 .ds4 .face.up, .ds4 .face.down {
-    width: 37px;
-    height: 52px;
+    width: 46px;
+    height: 58px;
 }
 
 .ds4 .face.left, .ds4 .face.right {
-    width: 52px;
-    height: 40px;
+    width: 58px;
+    height: 46px;
 }
 
 .ds4 .face.up {
-    left: 44px;
+    left: 43px;
     top: 0;
-    background-position: -37px 0px;
+    background-position: -49px 0px;
 }
 
 .ds4 .face.down {
-    left: 44px;
+    left: 43px;
     bottom: 0;
     background-position: 0px 0;
 }
@@ -258,22 +258,22 @@ background-position: 0 -70px;
 .ds4 .face.left {
     top: 45px;
     left: 0;
-    background-position: 104px 0;
+    background-position: 118px 0;
 }
 
 .ds4 .face.right {
     top: 45px;
     right: 0px;
-    background-position: 52px 0;
+    background-position: 59px 0;
 }
 
 .ds4 .face.pressed {
     /* margin-top: 5px; */
-    background-position-y: 52px;
+    background-position-y: 61px;
 }
 
 .ds4.half {
-    margin-top: -300px;
+    margin-top: -350px;
 }
 
 /*END PS4 Controller Styling*/
