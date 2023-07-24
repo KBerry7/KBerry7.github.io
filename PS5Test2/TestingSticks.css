@@ -148,14 +148,14 @@ background-position: 0 -70px;
     position: absolute;
     width: 170px;
     height: 171px;
-    top: 200px;
+    top: 195px;
     left: 762px;
 }
 
 .ds4 .button {
     position: absolute;
     width: 55px;
-    height: 55px;
+    height: 58px;
     background: url(FaceButtons.png);
 }
 
